@@ -9,6 +9,7 @@
 <p>
 	TO-BE 그룹웨어 프로젝트입니다.
 	develop branch를 생성했습니다.
+	pull request를 테스트합니다.
 </p>
 </body>
 </html>
